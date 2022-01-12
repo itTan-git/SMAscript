@@ -1,2 +1,2 @@
 # SMAscript
-Script and program parameter used in manuscript.
+In-house Rscript used in manuscript.
